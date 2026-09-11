@@ -1,0 +1,8 @@
+{
+  "name": "Remix The Sabil Voyages",
+  "description": "Curated luxury travel experiences and bespoke journeys in the heart of Kashmir. Experience paradise on earth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
